@@ -1,0 +1,6 @@
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.DS_Store
+.idea/
+tinkoff_backend_academy_2022.iml
